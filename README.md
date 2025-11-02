@@ -1,4 +1,4 @@
-# Masters-Project
+# Masters-Project: High Dimaneionality, Value Iteration, and Barycentric Interpolation in Robotic Control
 Materials from my masters project at UCSB, "High Dimaneionality, Value Iteration, and Barycentric Interpolation in Robotic Control". 
 
 # Robotic Control with Value Iteration and Barycentric Interpolation
