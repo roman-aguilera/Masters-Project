@@ -5,7 +5,7 @@ Materials from my masters project at UCSB, "High Dimensionality, Value Iteration
 
 ## Motivation & Problem Statement
 
-This project addresses the challenge of designing controllers for high-dimensional robotic systems while ensuring computational tractability. Discretizing the robot’s state space (e.g., a 3-link robotic arm) leads to an exponential increase in possible states, making brute-force methods impractical due to memory and time constraints.
+This project addresses the challenge of designing controllers for high-dimensional robotic systems while ensuring computational tractability. Discretizing the robot’s state space (e.g., a 3-link robotic arm) leads to an exponential increase in possible states, making brute-force methods impractical due to memory and time constraints. We overcome this by creating a mesh and using first principles to determine limits on the reachable state space set.
 
 ## Key Methods
 
