@@ -1,5 +1,5 @@
 # High Dimemsionality, Value Iteration, and Barycentric Interpolation in Robotic Control
-Materials from my masters project at UCSB. 
+Materials from my Masters Project at UC Santa Barbara. 
 
 # Robotic Control with Value Iteration and Barycentric Interpolation
 
