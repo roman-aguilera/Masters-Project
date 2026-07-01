@@ -1,7 +1,7 @@
 # High Dimemsionality, Value Iteration, and Barycentric Interpolation in Robotic Control
 
 
-### Robotic Control with Value Iteration and Barycentric Interpolation
+Robotic Control with Value Iteration and Barycentric Interpolation
 
 ## Motivation & Problem Statement
 
